@@ -1,1 +1,1 @@
-## Simple Example of a Caousel using JS
+## Simple Example of a Carousel using JS
